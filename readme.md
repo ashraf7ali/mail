@@ -43,4 +43,4 @@ To set up this project on your computer:
     ```
 
 ---
-Special thanks to Brian and the entire CS50 team for making learning easy, engaging, and free. 
+
