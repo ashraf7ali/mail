@@ -1,0 +1,12 @@
+textarea {
+    min-height: 400px;
+}
+#emailAddress {
+    font-weight: bold;
+}
+
+#time {
+    font-weight: lighter;
+    font-size : small;
+    color : LightGray
+}
